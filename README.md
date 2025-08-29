@@ -1,8 +1,15 @@
 # AgroSilos Contol - Monitoreo inteligente de silos y soluciones agrícolas – Código Maestro 
 
 ## 📌 Descripción
-Este proyecto tiene como objetivo desarrollar un sitio web tipo portafolio profesional para el equipo Código Maestro , utilizando WordPress .
-El sitio está diseñado como una Tienda Comercial profesional especializada en la venta de sensores de temperatura para silos verticales y otros productos agrícolas, permitiendo mostrar el catálogo de productos, dar a conocer al equipo y facilitar el contacto con los clientes, a travez de una forma virtual.
+Este proyecto tiene como objetivo desarrollar un sitio web profesional tipo portafolio para el equipo Código Maestro, implementado en WordPress.
+
+El sitio funciona como una tienda comercial en línea especializada en la venta de sensores de temperatura para silos verticales** y otros productos agrícolas. Además, permite:
+- Mostrar el catálogo completo de productos de forma organizada.  
+- Presentar al equipo y su experiencia profesional.  
+- Facilitar el contacto con clientes a través de medios virtuales.  
+
+De esta manera, el proyecto busca fortalecer la presencia digital, mejorar la visibilidad comercial y ofrecer una plataforma confiable de comunicación y ventas para el sector agrícola.
+
 
 ## 🚀 Propósito y Utilidad
 - Brindar un espacio digital organizado para mostrar y comercializar sensores de temperatura para silos verticales y otros productos agrícolas.
