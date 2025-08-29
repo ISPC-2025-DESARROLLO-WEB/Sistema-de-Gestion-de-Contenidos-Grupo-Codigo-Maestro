@@ -39,7 +39,8 @@ De esta manera, el proyecto busca fortalecer la presencia digital, mejorar la vi
 6. Iniciar el instalador desde el navegador en: 
 7. Completar los datos solicitados (nombre del sitio: *Codigo Maestro, descripción: **Tienda Comercial profesional*). 
 8. Crear el usuario administrador con la contraseña definida por el equipo.
-
+🛠️ Tecnologías utilizadas: 
+Wordpress, XAMPP, MySQL, Git y Github.
 📄 Este archivo **README** será ampliado en próximos *Sprints* con:  
 - 📋 Requisitos  
 - 🛠️ Tecnologías utilizadas  
