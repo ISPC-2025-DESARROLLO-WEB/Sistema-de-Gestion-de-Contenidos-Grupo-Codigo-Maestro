@@ -31,7 +31,7 @@ De esta manera, el proyecto busca fortalecer la presencia digital, mejorar la vi
 - Agustin Exequiel Gimenez Benitez
 
 ## 🔧 Pasos de Instalación 
-1. Descargar e instalar *XAMPP*. 
+1. Descargar e instalar *XAMPP*
 2. Activar los módulos *Apache* y *MySQL* desde el panel de control de XAMPP. 
 3. Copiar la carpeta de WordPress dentro de htdocs en el directorio de instalación de XAMPP. 
 4. Crear una base de datos en *phpMyAdmin* (agrosilos_control). 
@@ -41,6 +41,7 @@ De esta manera, el proyecto busca fortalecer la presencia digital, mejorar la vi
 8. Crear el usuario administrador con la contraseña definida por el equipo.
 🛠️ Tecnologías utilizadas: 
 Wordpress, XAMPP, MySQL, Git y Github.
+
 📄 Este archivo **README** será ampliado en próximos *Sprints* con:  
 - 📋 Requisitos  
 - 🛠️ Tecnologías utilizadas  
