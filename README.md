@@ -1,10 +1,42 @@
-# Proyecto de Gestión de Contenidos con WordPress – Código Maestro 
+# AgroSilos Contol - Monitoreo inteligente de silos y soluciones agrícolas – Código Maestro 
 
 ## 📌 Descripción
 Este proyecto tiene como objetivo desarrollar un sitio web tipo portafolio profesional para el equipo Código Maestro , utilizando WordPress .
-El sitio está diseñado como una Tienda Comercial profesional especializada en la venta de sensores de temperatura para silos verticales y otros productos agrícolas, permitiendo mostrar el catálogo de productos, dar a conocer al equipo y facilitar el contacto con los clientes.
+El sitio está diseñado como una Tienda Comercial profesional especializada en la venta de sensores de temperatura para silos verticales y otros productos agrícolas, permitiendo mostrar el catálogo de productos, dar a conocer al equipo y facilitar el contacto con los clientes, a travez de una forma virtual.
 
 ## 🚀 Propósito y Utilidad
 - Brindar un espacio digital organizado para mostrar y comercializar sensores de temperatura para silos verticales y otros productos agrícolas.
 - Desarrollar experiencia práctica en la instalación, configuración y uso de WordPress para un negocio agrícola.
 - Implementar buenas prácticas de documentación y trabajo colaborativo en equipo, orientadas al sector agroindustrial.
+- Desarrollar un sitio web professional con WordPress para el equipo Código Maestro, con la tematica de Tienda Comercial profesional especializada en la venta de sensores de temperatura para silos verticales y otros productos agrícolas.
+- El sitio está diseñado como una Tienda Comercial profesional especializada en la venta de sensores de temperatura para silos verticales y otros productos agrícolas.
+
+ ## 🛠️ Requisitos técnicos
+- XAMPP (Apache + MySQL + PHP)
+- WordPress (última versión estable)
+- Navegador web actualizado
+
+ ## 👥 Equipo de trabajo
+- Pablo Lihuen Romero
+- Guadalupe Magali Turri Sánchez
+- Franco Daniel Gimenez Benitez
+- Maria Catalina Rodas
+- Agustin Exequiel Gimenez Benitez
+
+## 🔧 Pasos de Instalación 
+1. Descargar e instalar *XAMPP*. 
+2. Activar los módulos *Apache* y *MySQL* desde el panel de control de XAMPP. 
+3. Copiar la carpeta de WordPress dentro de htdocs en el directorio de instalación de XAMPP. 
+4. Crear una base de datos en *phpMyAdmin* (agrosilos_control). 
+5. Configurar el archivo wp-config.php con los datos de la base creada.
+6. Iniciar el instalador desde el navegador en: 
+7. Completar los datos solicitados (nombre del sitio: *Codigo Maestro, descripción: **Tienda Comercial profesional*). 
+8. Crear el usuario administrador con la contraseña definida por el equipo.
+🛠️ Tecnologías utilizadas 
+ Lenguaje: Python - HTML - CSS Base de datos relacional (SQL) Git y GitHub Herramientas de diagramación: Draw.io.
+
+📄 Este archivo **README** será ampliado en próximos *Sprints* con:  
+- 📋 Requisitos  
+- 🛠️ Tecnologías utilizadas  
+- 📜 Licencias  
+- 🙌 Créditos del proyecto 
