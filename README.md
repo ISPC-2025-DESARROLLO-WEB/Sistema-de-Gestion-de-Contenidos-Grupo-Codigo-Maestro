@@ -1,4 +1,4 @@
-# Proyecto de Gestión de Contenidos con WordPress – Código Maestro 
+# AgroSilos Contol - Monitoreo inteligente de silos y soluciones agrícolas – Código Maestro 
 
 ## 📌 Descripción
 Este proyecto tiene como objetivo desarrollar un sitio web tipo portafolio profesional para el equipo Código Maestro , utilizando WordPress .
@@ -22,3 +22,19 @@ El sitio está diseñado como una Tienda Comercial profesional especializada en 
 - Franco Daniel Gimenez Benitez
 - Maria Catalina Rodas
 - Agustin Exequiel Gimenez Benitez
+
+## 🔧 Pasos de Instalación 
+1. Descargar e instalar *XAMPP*. 
+2. Activar los módulos *Apache* y *MySQL* desde el panel de control de XAMPP. 
+3. Copiar la carpeta de WordPress dentro de htdocs en el directorio de instalación de XAMPP. 
+4. Crear una base de datos en *phpMyAdmin* (agrosilos_control). 
+5. Configurar el archivo wp-config.php con los datos de la base creada.
+6. Iniciar el instalador desde el navegador en: 
+7. Completar los datos solicitados (nombre del sitio: *Codigo Maestro, descripción: **Tienda Comercial profesional*). 
+8. Crear el usuario administrador con la contraseña definida por el equipo.
+
+📄 Este archivo **README** será ampliado en próximos *Sprints* con:  
+- 📋 Requisitos  
+- 🛠️ Tecnologías utilizadas  
+- 📜 Licencias  
+- 🙌 Créditos del proyecto 
