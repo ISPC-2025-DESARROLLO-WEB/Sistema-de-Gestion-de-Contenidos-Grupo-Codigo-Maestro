@@ -27,7 +27,7 @@ El sitio no solo será una carta de presentación profesional, sino también una
 - Agustin Exequiel Gimenez Benitez
 
 ## 🔧 Pasos de Instalación 
-1. Descargar e instalar *XAMPP*. 
+1. Descargar e instalar *XAMPP*
 2. Activar los módulos *Apache* y *MySQL* desde el panel de control de XAMPP. 
 3. Copiar la carpeta de WordPress dentro de htdocs en el directorio de instalación de XAMPP. 
 4. Crear una base de datos en *phpMyAdmin* (agrosilos_control). 
