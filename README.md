@@ -1,22 +1,18 @@
-# AgroSilos Contol - Monitoreo inteligente de silos y soluciones agrícolas – Código Maestro 
+# Codigo Maestro - Impulsando tu negocio con software inteligente
 
 ## 📌 Descripción
 Este proyecto tiene como objetivo desarrollar un sitio web profesional tipo portafolio para el equipo Código Maestro, implementado en WordPress.
 
-El sitio funciona como una tienda comercial en línea especializada en la venta de sensores de temperatura para silos verticales** y otros productos agrícolas. Además, permite:
-- Mostrar el catálogo completo de productos de forma organizada.  
-- Presentar al equipo y su experiencia profesional.  
-- Facilitar el contacto con clientes a través de medios virtuales.  
+La empresa Código Maestro es una firma especializada en el desarrollo de software a medida, orientada a brindar soluciones tecnológicas innovadoras para empresas y emprendedores. Su página web busca convertirse en una plataforma institucional y comercial, mostrando los servicios ofrecidos, proyectos realizados y estableciendo un canal directo de comunicación con potenciales clientes.
 
-De esta manera, el proyecto busca fortalecer la presencia digital, mejorar la visibilidad comercial y ofrecer una plataforma confiable de comunicación y ventas para el sector agrícola.
+El sitio no solo será una carta de presentación profesional, sino también una herramienta estratégica para fortalecer la identidad digital de la empresa y aumentar su visibilidad en el mercado competitivo del desarrollo de software.
 
 
-## 🚀 Propósito y Utilidad
-- Brindar un espacio digital organizado para mostrar y comercializar sensores de temperatura para silos verticales y otros productos agrícolas.
-- Desarrollar experiencia práctica en la instalación, configuración y uso de WordPress para un negocio agrícola.
-- Implementar buenas prácticas de documentación y trabajo colaborativo en equipo, orientadas al sector agroindustrial.
-- Desarrollar un sitio web professional con WordPress para el equipo Código Maestro, con la tematica de Tienda Comercial profesional especializada en la venta de sensores de temperatura para silos verticales y otros productos agrícolas.
-- El sitio está diseñado como una Tienda Comercial profesional especializada en la venta de sensores de temperatura para silos verticales y otros productos agrícolas.
+## 🎯 Propósito y Utilidad
+- Dar a conocer la marca: Posicionar a Código Maestro como una empresa confiable, profesional y actualizada en el ámbito tecnológico.
+- Exhibir el portafolio: Presentar proyectos previos, tecnologías utilizadas y casos de éxito que respalden la experiencia del equipo.
+- Facilitar la comunicación: Incluir formularios de contacto, información de soporte y medios de consulta para clientes actuales y futuros.
+- Escalabilidad: La web será una base sobre la cual se podrán integrar en el futuro funcionalidades adicionales como blogs técnicos, áreas de clientes o comercio electrónico.
 
  ## 🛠️ Requisitos técnicos
 - XAMPP (Apache + MySQL + PHP)
@@ -39,6 +35,7 @@ De esta manera, el proyecto busca fortalecer la presencia digital, mejorar la vi
 6. Iniciar el instalador desde el navegador en: 
 7. Completar los datos solicitados (nombre del sitio: *Codigo Maestro, descripción: **Tienda Comercial profesional*). 
 8. Crear el usuario administrador con la contraseña definida por el equipo.
+
 🛠️ Tecnologías utilizadas: 
 Wordpress, XAMPP, MySQL, Git y Github.
 
